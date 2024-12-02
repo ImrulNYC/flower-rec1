@@ -26,6 +26,7 @@ if st.button("Toggle Night Mode" if st.session_state.theme == 'light' else "Togg
     st.session_state.theme = 'dark' if st.session_state.theme == 'light' else 'light'
 
 if st.button("Go to Main Page"):
+    st.markdown("[](https://flowerpowerweb-y5xthaukjkfnapp8zymvysg.streamlit.app)", unsafe_allow_html=True)
     webbrowser.open_new_tab("https://flowerpowerweb-y5xthaukjkfnapp8zymvysg.streamlit.app")
 
 #Theme
