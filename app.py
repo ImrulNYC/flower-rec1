@@ -138,7 +138,7 @@ elif page == "Developer Info":
             </ul>
             <div style="margin-top: 20px;">
                 <p style="font-size: 1em; color: #999;">Model: Pretrained ViT-16 model for flower classification, fine-tuned for accurate predictions.</p>
-                <p style="font-size: 1em; color: #999;">Website designed by the team. Check out other work: <a href="https://example.com" style="color: #999; text-decoration: underline;">here</a></p>
+                <p style="font-size: 1em; color: #999;">Website designed by the team. Check out other work: <a href="https://flowerpowerweb-y5xthaukjkfnapp8zymvysg.streamlit.app" style="color: #999; text-decoration: underline;">here</a></p>
             </div>
         </div>
         """,
